@@ -9,13 +9,13 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=felipefranca93&theme=tokyonight&bg_color=000000&text_color=00CCCC&border_color=003366&border_radius=20%&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=andersondmelo&theme=tokyonight&bg_color=000000&text_color=00CCCC&border_color=003366&border_radius=20%&show_icons=true&locale=en"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefranca93&theme=tokyonight&bg_color=000000&text_color=00CCCC&border_color=003366&border_radius=20%&locale=en"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondmelo&theme=tokyonight&bg_color=000000&text_color=00CCCC&border_color=003366&border_radius=20%&locale=en"
     />
   </a>
 </p>
