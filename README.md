@@ -1,9 +1,18 @@
-# I'm Anderson de Melo, welcome to my Github
+## 👋 Hello! Welcome to my Github profile.
+
+# My name is Anderson de Melo, technology lover and professional 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersondmelo)](https://github.com/andersondmelo)<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersondmelo/)](https://www.linkedin.com/in/andersondmelo/)
 
 ### I'm a DevOps Engineer, Infrastructure Analyst on-premises and cloud, and developing as an SRE.
+
+<div>
+<a href="https://github.com/andersondmelo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondmelo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersondmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 
 <p align="center"
   <a href="https://github.com/anuraghazra/github-readme-stats">
