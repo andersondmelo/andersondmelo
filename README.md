@@ -9,16 +9,8 @@
 
 <div>
 <a href="https://github.com/andersondmelo">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondmelo&layout=compact&langs_count=7&theme=dracula"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondmelo&theme=tokyonight&bg_color=000000&text_color=00CCCC&border_color=003366&border_radius=20%&locale=en"/>
 </div>
-  
-
-<p align="center"
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondmelo&theme=tokyonight&bg_color=000000&text_color=00CCCC&border_color=003366&border_radius=20%&locale=en"/>
-  </a>
-</p>
 
 ## Some of my Tech skills: 
 <div style="display: inline_block"><br>
